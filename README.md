@@ -19,3 +19,13 @@ npx hardhat test
 Download the VS Code Solidity extension for easy syntax highlighting [here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity).
 
 Written the contract `WavePortal.sol`
+
+## [Lesson 3] Compile contract locally and run it
+
+Write `run.js` script to locally run the contract
+
+Launch via:
+
+```shell
+npx hardhat run scripts/run.js
+```
