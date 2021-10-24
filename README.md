@@ -13,3 +13,9 @@ npx hardhat accounts > accounts.txt
 npx hardhat compile
 npx hardhat test
 ```
+
+## [Lesson 2] Write your first smart contract in Solidity
+
+Download the VS Code Solidity extension for easy syntax highlighting [here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity).
+
+Written the contract `WavePortal.sol`
