@@ -29,3 +29,9 @@ Launch via:
 ```shell
 npx hardhat run scripts/run.js
 ```
+
+## [Lesson 4] Store 👋 data on our smart contract
+
+Use state variable in `WavePortal.sol`
+
+Call contract functions from `run.js`
