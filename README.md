@@ -87,3 +87,13 @@ Improve `App.js` to connect with the wallet, sort of authentication
 ## [Lesson 9] Call the our deployed smart contract from our web app
 
 Improve `App.js` to call smart contract function
+
+## [Lesson 10] Storing messages from users on the blockchain
+
+Improve `WavePortal.sol` to handle message
+
+Improve `run.js` to test message handling
+
+Re-deploy the contract and change references in `App.js`
+
+Improve `App.js` to get all messages from contract and display them
