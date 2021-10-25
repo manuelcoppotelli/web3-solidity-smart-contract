@@ -65,3 +65,17 @@ cd webapp
 npm install
 npm run start
 ```
+
+## [Lesson 7] Deploy smart contract to a real testnet
+
+Edited `hardhat.config.js` to use rinkeby demo network
+
+The `YOUR_ALCHEMY_API_URL` param can be grabed from the [Alchemy](https://dashboard.alchemyapi.io) dashboard
+
+The `YOUR_PRIVATE_RINKEBY_ACCOUNT_KEY` param che be grabbed by opening MetaMask, change the network to "Rinkeby Test Network" and then click the three dots and select "Account Details" > "Export Private Key"
+
+Deploy to rinkeby via:
+
+```shell
+npx hardhat run scripts/deploy.js --network rinkeby
+```
