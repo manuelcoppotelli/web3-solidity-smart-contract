@@ -107,3 +107,13 @@ Improve `WavePortal.sol` to pay who waves
 Improve `run.js` and `deploy.js` to set initial value to the contract
 
 Re-deploy the contract and change references in `App.js`
+
+## [Lesson 12] Randomly pick a winner and prevent spammers
+
+Improve `WavePortal.sol` add pseudo-random function prize
+
+Improve `run.js` to test the new contract
+
+Improve `WavePortal.sol` add a cooldown function to your site so people can't just spam to win
+
+Re-deploy the contract and change references in `App.js`

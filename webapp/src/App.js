@@ -8,7 +8,7 @@ export default function App() {
   /**
    * Create a variable here that holds the contract address after you deploy!
    */
-   const contractAddress = "0x7d87ded34651d27026ff1C489A95E0B61C1d687C";
+   const contractAddress = "0x0ddB9535365e1EFB7b24623c377870c5aD3350fd";
 
   /**
    * Create a variable here that references the abi content!
