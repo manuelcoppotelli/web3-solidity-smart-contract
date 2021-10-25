@@ -83,3 +83,7 @@ npx hardhat run scripts/deploy.js --network rinkeby
 ## [Lesson 8] Connect our wallet to our web app
 
 Improve `App.js` to connect with the wallet, sort of authentication
+
+## [Lesson 9] Call the our deployed smart contract from our web app
+
+Improve `App.js` to call smart contract function
