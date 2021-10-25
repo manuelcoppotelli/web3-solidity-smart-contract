@@ -109,7 +109,7 @@ export default function App() {
 
       <div className="dataContainer">
         <div className="header">
-        👋 Hey there!
+          <span role="img" aria-label="wave">👋</span> Hey there!
         </div>
 
         <div className="bio">
