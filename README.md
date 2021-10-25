@@ -53,3 +53,15 @@ Created a `deploy.js` script to deploy the contract on local network; use it via
 ```shell
 npx hardhat run scripts/deploy.js --network localhost
 ```
+
+## [Lesson 6] Setup a basic react app, setup Metamask
+
+Setup the `webapp` code.
+
+To run the webapp:
+
+```shell
+cd webapp
+npm install
+npm run start
+```
