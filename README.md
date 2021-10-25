@@ -35,3 +35,21 @@ npx hardhat run scripts/run.js
 Use state variable in `WavePortal.sol`
 
 Call contract functions from `run.js`
+
+## [Lesson 5] Deploy locally so we can start building the website
+
+When the `run.js` script ends, Hardhat will automatically destroy that local network.
+
+Edited `hardhat.config.js` to use localhost
+
+To keep the local network alive
+
+```shell
+npx hardhat node
+```
+
+Created a `deploy.js` script to deploy the contract on local network; use it via:
+
+```shell
+npx hardhat run scripts/deploy.js --network localhost
+```
