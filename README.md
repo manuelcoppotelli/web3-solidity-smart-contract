@@ -97,3 +97,13 @@ Improve `run.js` to test message handling
 Re-deploy the contract and change references in `App.js`
 
 Improve `App.js` to get all messages from contract and display them
+
+## [Lesson 11] Fund contract, set a prize, and send users Ethereum
+
+To send ETH to someone, our contract needs to have ETH on it. we first deploy the contract, we "fund" it.
+
+Improve `WavePortal.sol` to pay who waves
+
+Improve `run.js` and `deploy.js` to set initial value to the contract
+
+Re-deploy the contract and change references in `App.js`
