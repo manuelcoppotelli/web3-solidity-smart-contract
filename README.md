@@ -117,3 +117,11 @@ Improve `run.js` to test the new contract
 Improve `WavePortal.sol` add a cooldown function to your site so people can't just spam to win
 
 Re-deploy the contract and change references in `App.js`
+
+## [Lesson 13] Finalize and celebrate!
+
+Setting gas limit to 300000 when sending a message
+
+Listen to contract event to update the webapp without refresh
+
+Use `.env` file to read sensitive values
