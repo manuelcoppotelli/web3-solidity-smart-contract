@@ -79,3 +79,7 @@ Deploy to rinkeby via:
 ```shell
 npx hardhat run scripts/deploy.js --network rinkeby
 ```
+
+## [Lesson 8] Connect our wallet to our web app
+
+Improve `App.js` to connect with the wallet, sort of authentication
